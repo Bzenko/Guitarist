@@ -1,0 +1,31 @@
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.main-section {
+  height: 800px;
+  background: #E5E5E5;
+  padding-top: 25px;
+}
+.main-section__nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 73px;
+  align-items: center;
+}
+.main-section__logo {
+  width: 130px;
+}
+
+.nav-menu__list {
+  display: flex;
+  flex-direction: row;
+}
+.nav-menu__item {
+  margin-right: 66px;
+}
+.nav-menu__item:last-child {
+  margin-right: 0px;
+}/*# sourceMappingURL=style.css.map */
